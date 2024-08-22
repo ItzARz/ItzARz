@@ -2,7 +2,7 @@
 <h3>A day-to-day growing developer born in :venezuela:</h3>
 
 - 🌱 *I’m currently focused on frontend development, crafting modern, state-of-the-art UIs that are visually captivating.*
-- 👁️ *Constantly dedicated to deliver innovative, efficient, and modern solutions. My mission is to tackle the challenges in my country, where outdated software and unintuitive interfaces are common. By leveraging cutting-edge technologies, I aim to transform and modernize these experiences.*
+- 👁️ *Constantly dedicated to deliver innovative, efficient, and modern solutions. My vision is to tackle the challenges in my country, where outdated software and unintuitive interfaces are common. By leveraging cutting-edge technologies, I aim to transform and modernize these experiences.*
 - 🎓 *On track to earn a Computer Science degree by 2026.*
 - *I always strive to set myself apart, aiming to innovate and stand out, no matter the place or circumstance.*
 <h3 align="left">Connect with me:</h3>
