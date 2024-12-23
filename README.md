@@ -15,5 +15,5 @@
 <a href="https://discord.gg/itzarz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="itzarz" height="30" width="40" /></a>
 </p>
 <hr>
-<div><img height="150px" src="https://github-readme-stats.vercel.app/api?username=ItzARz&show_icons=true&theme=gotham&count_private=true" /></div>
+<div><img height="150px" src="https://github-readme-stats.vercel.app/api?username=ItzARz&show_icons=true&theme=gradient&count_private=true" /></div>
 <br />
