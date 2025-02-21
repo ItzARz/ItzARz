@@ -17,3 +17,10 @@
 <hr>
 <div><img height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzarz&theme=gotham" /><img height="150px" src="https://github-readme-stats.vercel.app/api?username=ItzARz&show_icons=true&theme=gotham&count_private=true" /></div>
 <br />
+
+**Spotify** 
+<div align="left">
+  <a href="https://open.spotify.com/user/31v7wnoq6eerttcfjakfkntwdimy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31v7wnoq6eerttcfjakfkntwdimy&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
