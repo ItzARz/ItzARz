@@ -1,5 +1,5 @@
 <h1>I'm Albert 👋</h1>
-<h3>A day-to-day growing developer born in :venezuela:</h3>
+<h3>Growing developer born in :venezuela:</h3>
 
 - 🌱 *Currently focused on frontend development, crafting modern, state-of-the-art UIs that are visually captivating.*
 - 👁️ *Constantly dedicated to deliver innovative, efficient, and modern solutions. My vision is to tackle the challenges in my country, where outdated software and unintuitive interfaces are common. I aim to transform and modernize these experiences.*
